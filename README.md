@@ -1,2 +1,2 @@
 # Library Management System
-This project shows the perfromance of a library management using Power BI.
+This project shows the performance of a library management system using Power BI.
